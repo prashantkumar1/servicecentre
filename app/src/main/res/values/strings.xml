@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Service Centre</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_mobile">MobileActivity</string>
+    <string name="title_activity_laptop">LaptopActivity</string>
+    <string name="title_activity_city">CityActivity</string>
+    <string name="title_activity_sevice_center">SeviceCenter</string>
+    <string name="title_activity_center_details">CenterDetails</string>
+</resources>
